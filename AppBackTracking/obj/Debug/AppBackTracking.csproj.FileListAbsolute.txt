@@ -1,0 +1,10 @@
+C:\Temp\AppBackTracking\obj\Debug\AppBackTracking.csproj.AssemblyReference.cache
+C:\Temp\AppBackTracking\obj\Debug\AppBackTracking.Form1.resources
+C:\Temp\AppBackTracking\obj\Debug\AppBackTracking.Properties.Resources.resources
+C:\Temp\AppBackTracking\obj\Debug\AppBackTracking.csproj.GenerateResource.cache
+C:\Temp\AppBackTracking\obj\Debug\AppBackTracking.csproj.CoreCompileInputs.cache
+C:\Temp\AppBackTracking\bin\Debug\AppBackTracking.exe.config
+C:\Temp\AppBackTracking\bin\Debug\AppBackTracking.exe
+C:\Temp\AppBackTracking\bin\Debug\AppBackTracking.pdb
+C:\Temp\AppBackTracking\obj\Debug\AppBackTracking.exe
+C:\Temp\AppBackTracking\obj\Debug\AppBackTracking.pdb
