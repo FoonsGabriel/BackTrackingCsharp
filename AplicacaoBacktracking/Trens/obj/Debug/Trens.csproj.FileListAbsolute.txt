@@ -69,3 +69,13 @@ C:\Users\TUF\Documents\Projetos\C#\BackTracking\TrabalhoBackTrackingEstrutura\Pr
 C:\Users\TUF\Documents\Projetos\C#\BackTracking\TrabalhoBackTrackingEstrutura\Projeto 2 ED Not - Caminho de Trens\ra1_ra2_Caminhos_de_Trem\Trens\Backtracking-TrackMapper\Trens\obj\Debug\Trens.csproj.CoreCompileInputs.cache
 C:\Users\TUF\Documents\Projetos\C#\BackTracking\TrabalhoBackTrackingEstrutura\Projeto 2 ED Not - Caminho de Trens\ra1_ra2_Caminhos_de_Trem\Trens\Backtracking-TrackMapper\Trens\obj\Debug\Trens.exe
 C:\Users\TUF\Documents\Projetos\C#\BackTracking\TrabalhoBackTrackingEstrutura\Projeto 2 ED Not - Caminho de Trens\ra1_ra2_Caminhos_de_Trem\Trens\Backtracking-TrackMapper\Trens\obj\Debug\Trens.pdb
+C:\Users\fonse\OneDrive\Documentos\GitHub\BackTrackingCsharp\AplicacaoBacktracking\Trens\bin\Debug\Trens.exe.config
+C:\Users\fonse\OneDrive\Documentos\GitHub\BackTrackingCsharp\AplicacaoBacktracking\Trens\bin\Debug\Trens.exe
+C:\Users\fonse\OneDrive\Documentos\GitHub\BackTrackingCsharp\AplicacaoBacktracking\Trens\bin\Debug\Trens.pdb
+C:\Users\fonse\OneDrive\Documentos\GitHub\BackTrackingCsharp\AplicacaoBacktracking\Trens\obj\Debug\Trens.csproj.AssemblyReference.cache
+C:\Users\fonse\OneDrive\Documentos\GitHub\BackTrackingCsharp\AplicacaoBacktracking\Trens\obj\Debug\Trens.FrmCaminhos.resources
+C:\Users\fonse\OneDrive\Documentos\GitHub\BackTrackingCsharp\AplicacaoBacktracking\Trens\obj\Debug\Trens.Properties.Resources.resources
+C:\Users\fonse\OneDrive\Documentos\GitHub\BackTrackingCsharp\AplicacaoBacktracking\Trens\obj\Debug\Trens.csproj.GenerateResource.cache
+C:\Users\fonse\OneDrive\Documentos\GitHub\BackTrackingCsharp\AplicacaoBacktracking\Trens\obj\Debug\Trens.csproj.CoreCompileInputs.cache
+C:\Users\fonse\OneDrive\Documentos\GitHub\BackTrackingCsharp\AplicacaoBacktracking\Trens\obj\Debug\Trens.exe
+C:\Users\fonse\OneDrive\Documentos\GitHub\BackTrackingCsharp\AplicacaoBacktracking\Trens\obj\Debug\Trens.pdb
