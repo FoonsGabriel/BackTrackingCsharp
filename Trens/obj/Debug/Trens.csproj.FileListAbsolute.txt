@@ -1,0 +1,71 @@
+Z:\anosLetivos\2019\Caminhos_de_Trem_Projeto3ED_16163_16179\Caminhos_de_Trem_Projeto3ED_16163_16179\16163_16179_Projeto3ED\Trens\Trens\bin\Debug\Trens.exe.config
+Z:\anosLetivos\2019\Caminhos_de_Trem_Projeto3ED_16163_16179\Caminhos_de_Trem_Projeto3ED_16163_16179\16163_16179_Projeto3ED\Trens\Trens\bin\Debug\Trens.exe
+Z:\anosLetivos\2019\Caminhos_de_Trem_Projeto3ED_16163_16179\Caminhos_de_Trem_Projeto3ED_16163_16179\16163_16179_Projeto3ED\Trens\Trens\bin\Debug\Trens.pdb
+Z:\anosLetivos\2019\Caminhos_de_Trem_Projeto3ED_16163_16179\Caminhos_de_Trem_Projeto3ED_16163_16179\16163_16179_Projeto3ED\Trens\Trens\obj\Debug\Trens.csproj.AssemblyReference.cache
+Z:\anosLetivos\2019\Caminhos_de_Trem_Projeto3ED_16163_16179\Caminhos_de_Trem_Projeto3ED_16163_16179\16163_16179_Projeto3ED\Trens\Trens\obj\Debug\Trens.Form1.resources
+Z:\anosLetivos\2019\Caminhos_de_Trem_Projeto3ED_16163_16179\Caminhos_de_Trem_Projeto3ED_16163_16179\16163_16179_Projeto3ED\Trens\Trens\obj\Debug\Trens.Properties.Resources.resources
+Z:\anosLetivos\2019\Caminhos_de_Trem_Projeto3ED_16163_16179\Caminhos_de_Trem_Projeto3ED_16163_16179\16163_16179_Projeto3ED\Trens\Trens\obj\Debug\Trens.csproj.GenerateResource.cache
+Z:\anosLetivos\2019\Caminhos_de_Trem_Projeto3ED_16163_16179\Caminhos_de_Trem_Projeto3ED_16163_16179\16163_16179_Projeto3ED\Trens\Trens\obj\Debug\Trens.csproj.CoreCompileInputs.cache
+Z:\anosLetivos\2019\Caminhos_de_Trem_Projeto3ED_16163_16179\Caminhos_de_Trem_Projeto3ED_16163_16179\16163_16179_Projeto3ED\Trens\Trens\obj\Debug\Trens.exe
+Z:\anosLetivos\2019\Caminhos_de_Trem_Projeto3ED_16163_16179\Caminhos_de_Trem_Projeto3ED_16163_16179\16163_16179_Projeto3ED\Trens\Trens\obj\Debug\Trens.pdb
+Z:\anosLetivos\2026\disciplinas\TI221-ED Not\Projetos\Projeto 2\ra1_ra2_Caminhos_de_Trem\Trens\Trens\obj\Debug\Trens.csproj.AssemblyReference.cache
+Z:\anosLetivos\2026\disciplinas\TI221-ED Not\Projetos\Projeto 2\ra1_ra2_Caminhos_de_Trem\Trens\Trens\obj\Debug\Trens.exe.config
+Z:\anosLetivos\2026\disciplinas\TI221-ED Not\Projetos\Projeto 2\ra1_ra2_Caminhos_de_Trem\Trens\Trens\obj\Debug\Trens.Properties.Resources.resources
+Z:\anosLetivos\2026\disciplinas\TI221-ED Not\Projetos\Projeto 2\ra1_ra2_Caminhos_de_Trem\Trens\Trens\obj\Debug\Trens.csproj.GenerateResource.cache
+Z:\anosLetivos\2026\disciplinas\TI221-ED Not\Projetos\Projeto 2\ra1_ra2_Caminhos_de_Trem\Trens\Trens\obj\Debug\Trens.csproj.CoreCompileInputs.cache
+Z:\anosLetivos\2026\disciplinas\TI221-ED Not\Projetos\Projeto 2\ra1_ra2_Caminhos_de_Trem\Trens\Trens\obj\Debug\Trens.exe
+Z:\anosLetivos\2026\disciplinas\TI221-ED Not\Projetos\Projeto 2\ra1_ra2_Caminhos_de_Trem\Trens\Trens\obj\Debug\Trens.pdb
+Z:\anosLetivos\2026\disciplinas\TI221-ED Not\Projetos\Projeto 2\ra1_ra2_Caminhos_de_Trem\Trens\Trens\obj\Debug\Trens.FrmCaminhos.resources
+Z:\anosLetivos\2026\disciplinas\TI221-ED Not\Projetos\Projeto 2\ra1_ra2_Caminhos_de_Trem\Trens\Trens\bin\Debug\Trens.exe.config
+Z:\anosLetivos\2026\disciplinas\TI221-ED Not\Projetos\Projeto 2\ra1_ra2_Caminhos_de_Trem\Trens\Trens\bin\Debug\Trens.exe
+Z:\anosLetivos\2026\disciplinas\TI221-ED Not\Projetos\Projeto 2\ra1_ra2_Caminhos_de_Trem\Trens\Trens\bin\Debug\Trens.pdb
+C:\Users\chico\Downloads\Projeto 2\ra1_ra2_Caminhos_de_Trem\Trens\Trens\obj\Debug\Trens.csproj.AssemblyReference.cache
+C:\Users\chico\Downloads\Projeto 2\ra1_ra2_Caminhos_de_Trem\Trens\Trens\obj\Debug\Trens.exe
+C:\Users\chico\Downloads\Projeto 2\ra1_ra2_Caminhos_de_Trem\Trens\Trens\obj\Debug\Trens.pdb
+C:\Users\chico\Downloads\Projeto 2\ra1_ra2_Caminhos_de_Trem\Trens\Trens\bin\Debug\Trens.exe.config
+C:\Users\chico\Downloads\Projeto 2\ra1_ra2_Caminhos_de_Trem\Trens\Trens\bin\Debug\Trens.exe
+C:\Users\chico\Downloads\Projeto 2\ra1_ra2_Caminhos_de_Trem\Trens\Trens\bin\Debug\Trens.pdb
+C:\Users\chico\Downloads\Projeto 2\ra1_ra2_Caminhos_de_Trem\Trens\Trens\obj\Debug\Trens.FrmCaminhos.resources
+C:\Users\chico\Downloads\Projeto 2\ra1_ra2_Caminhos_de_Trem\Trens\Trens\obj\Debug\Trens.Properties.Resources.resources
+C:\Users\chico\Downloads\Projeto 2\ra1_ra2_Caminhos_de_Trem\Trens\Trens\obj\Debug\Trens.csproj.GenerateResource.cache
+C:\Users\chico\Downloads\Projeto 2\ra1_ra2_Caminhos_de_Trem\Trens\Trens\obj\Debug\Trens.csproj.CoreCompileInputs.cache
+C:\Users\TUF\Documents\Projetos\C#\BackTracking\TrabalhoBackTrackingEstrutura\Projeto 2 ED Not - Caminho de Trens\ra1_ra2_Caminhos_de_Trem\Trens\Trens\bin\Debug\Trens.exe.config
+C:\Users\TUF\Documents\Projetos\C#\BackTracking\TrabalhoBackTrackingEstrutura\Projeto 2 ED Not - Caminho de Trens\ra1_ra2_Caminhos_de_Trem\Trens\Trens\bin\Debug\Trens.exe
+C:\Users\TUF\Documents\Projetos\C#\BackTracking\TrabalhoBackTrackingEstrutura\Projeto 2 ED Not - Caminho de Trens\ra1_ra2_Caminhos_de_Trem\Trens\Trens\bin\Debug\Trens.pdb
+C:\Users\TUF\Documents\Projetos\C#\BackTracking\TrabalhoBackTrackingEstrutura\Projeto 2 ED Not - Caminho de Trens\ra1_ra2_Caminhos_de_Trem\Trens\Trens\obj\Debug\Trens.csproj.AssemblyReference.cache
+C:\Users\TUF\Documents\Projetos\C#\BackTracking\TrabalhoBackTrackingEstrutura\Projeto 2 ED Not - Caminho de Trens\ra1_ra2_Caminhos_de_Trem\Trens\Trens\obj\Debug\Trens.FrmCaminhos.resources
+C:\Users\TUF\Documents\Projetos\C#\BackTracking\TrabalhoBackTrackingEstrutura\Projeto 2 ED Not - Caminho de Trens\ra1_ra2_Caminhos_de_Trem\Trens\Trens\obj\Debug\Trens.Properties.Resources.resources
+C:\Users\TUF\Documents\Projetos\C#\BackTracking\TrabalhoBackTrackingEstrutura\Projeto 2 ED Not - Caminho de Trens\ra1_ra2_Caminhos_de_Trem\Trens\Trens\obj\Debug\Trens.csproj.GenerateResource.cache
+C:\Users\TUF\Documents\Projetos\C#\BackTracking\TrabalhoBackTrackingEstrutura\Projeto 2 ED Not - Caminho de Trens\ra1_ra2_Caminhos_de_Trem\Trens\Trens\obj\Debug\Trens.csproj.CoreCompileInputs.cache
+C:\Users\TUF\Documents\Projetos\C#\BackTracking\TrabalhoBackTrackingEstrutura\Projeto 2 ED Not - Caminho de Trens\ra1_ra2_Caminhos_de_Trem\Trens\Trens\obj\Debug\Trens.exe
+C:\Users\TUF\Documents\Projetos\C#\BackTracking\TrabalhoBackTrackingEstrutura\Projeto 2 ED Not - Caminho de Trens\ra1_ra2_Caminhos_de_Trem\Trens\Trens\obj\Debug\Trens.pdb
+C:\Users\u25713\Documents\GitHub\Backtracking-TrackMapper\Trens\obj\Debug\Trens.csproj.AssemblyReference.cache
+C:\Users\u25713\Documents\GitHub\Backtracking-TrackMapper\Trens\obj\Debug\Trens.FrmCaminhos.resources
+C:\Users\u25713\Documents\GitHub\Backtracking-TrackMapper\Trens\obj\Debug\Trens.Properties.Resources.resources
+C:\Users\u25713\Documents\GitHub\Backtracking-TrackMapper\Trens\obj\Debug\Trens.csproj.GenerateResource.cache
+C:\Users\u25713\Documents\GitHub\Backtracking-TrackMapper\Trens\obj\Debug\Trens.csproj.CoreCompileInputs.cache
+C:\Users\u25713\Documents\GitHub\Backtracking-TrackMapper\Trens\obj\Debug\Trens.exe
+C:\Users\u25713\Documents\GitHub\Backtracking-TrackMapper\Trens\obj\Debug\Trens.pdb
+C:\Users\u25713\Documents\GitHub\Backtracking-TrackMapper\Trens\bin\Debug\Trens.exe.config
+C:\Users\u25713\Documents\GitHub\Backtracking-TrackMapper\Trens\bin\Debug\Trens.exe
+C:\Users\u25713\Documents\GitHub\Backtracking-TrackMapper\Trens\bin\Debug\Trens.pdb
+C:\Users\fonse\OneDrive\Documentos\GitHub\Backtracking-TrackMapper\Trens\bin\Debug\Trens.exe.config
+C:\Users\fonse\OneDrive\Documentos\GitHub\Backtracking-TrackMapper\Trens\bin\Debug\Trens.exe
+C:\Users\fonse\OneDrive\Documentos\GitHub\Backtracking-TrackMapper\Trens\bin\Debug\Trens.pdb
+C:\Users\fonse\OneDrive\Documentos\GitHub\Backtracking-TrackMapper\Trens\obj\Debug\Trens.csproj.AssemblyReference.cache
+C:\Users\fonse\OneDrive\Documentos\GitHub\Backtracking-TrackMapper\Trens\obj\Debug\Trens.FrmCaminhos.resources
+C:\Users\fonse\OneDrive\Documentos\GitHub\Backtracking-TrackMapper\Trens\obj\Debug\Trens.Properties.Resources.resources
+C:\Users\fonse\OneDrive\Documentos\GitHub\Backtracking-TrackMapper\Trens\obj\Debug\Trens.csproj.GenerateResource.cache
+C:\Users\fonse\OneDrive\Documentos\GitHub\Backtracking-TrackMapper\Trens\obj\Debug\Trens.csproj.CoreCompileInputs.cache
+C:\Users\fonse\OneDrive\Documentos\GitHub\Backtracking-TrackMapper\Trens\obj\Debug\Trens.exe
+C:\Users\fonse\OneDrive\Documentos\GitHub\Backtracking-TrackMapper\Trens\obj\Debug\Trens.pdb
+C:\Users\TUF\Documents\Projetos\C#\BackTracking\TrabalhoBackTrackingEstrutura\Projeto 2 ED Not - Caminho de Trens\ra1_ra2_Caminhos_de_Trem\Trens\Backtracking-TrackMapper\Trens\bin\Debug\Trens.exe.config
+C:\Users\TUF\Documents\Projetos\C#\BackTracking\TrabalhoBackTrackingEstrutura\Projeto 2 ED Not - Caminho de Trens\ra1_ra2_Caminhos_de_Trem\Trens\Backtracking-TrackMapper\Trens\bin\Debug\Trens.exe
+C:\Users\TUF\Documents\Projetos\C#\BackTracking\TrabalhoBackTrackingEstrutura\Projeto 2 ED Not - Caminho de Trens\ra1_ra2_Caminhos_de_Trem\Trens\Backtracking-TrackMapper\Trens\bin\Debug\Trens.pdb
+C:\Users\TUF\Documents\Projetos\C#\BackTracking\TrabalhoBackTrackingEstrutura\Projeto 2 ED Not - Caminho de Trens\ra1_ra2_Caminhos_de_Trem\Trens\Backtracking-TrackMapper\Trens\obj\Debug\Trens.csproj.AssemblyReference.cache
+C:\Users\TUF\Documents\Projetos\C#\BackTracking\TrabalhoBackTrackingEstrutura\Projeto 2 ED Not - Caminho de Trens\ra1_ra2_Caminhos_de_Trem\Trens\Backtracking-TrackMapper\Trens\obj\Debug\Trens.FrmCaminhos.resources
+C:\Users\TUF\Documents\Projetos\C#\BackTracking\TrabalhoBackTrackingEstrutura\Projeto 2 ED Not - Caminho de Trens\ra1_ra2_Caminhos_de_Trem\Trens\Backtracking-TrackMapper\Trens\obj\Debug\Trens.Properties.Resources.resources
+C:\Users\TUF\Documents\Projetos\C#\BackTracking\TrabalhoBackTrackingEstrutura\Projeto 2 ED Not - Caminho de Trens\ra1_ra2_Caminhos_de_Trem\Trens\Backtracking-TrackMapper\Trens\obj\Debug\Trens.csproj.GenerateResource.cache
+C:\Users\TUF\Documents\Projetos\C#\BackTracking\TrabalhoBackTrackingEstrutura\Projeto 2 ED Not - Caminho de Trens\ra1_ra2_Caminhos_de_Trem\Trens\Backtracking-TrackMapper\Trens\obj\Debug\Trens.csproj.CoreCompileInputs.cache
+C:\Users\TUF\Documents\Projetos\C#\BackTracking\TrabalhoBackTrackingEstrutura\Projeto 2 ED Not - Caminho de Trens\ra1_ra2_Caminhos_de_Trem\Trens\Backtracking-TrackMapper\Trens\obj\Debug\Trens.exe
+C:\Users\TUF\Documents\Projetos\C#\BackTracking\TrabalhoBackTrackingEstrutura\Projeto 2 ED Not - Caminho de Trens\ra1_ra2_Caminhos_de_Trem\Trens\Backtracking-TrackMapper\Trens\obj\Debug\Trens.pdb
